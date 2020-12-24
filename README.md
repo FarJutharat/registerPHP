@@ -1,3 +1,3 @@
 # registerPHP
-# localhost/register_system
-# DB is my localhost
+- localhost/register_system
+- DB is my localhost
